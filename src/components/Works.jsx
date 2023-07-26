@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Tilt } from "react-tilt";
 import { SectionWrapper } from "../hoc";
 import { motion } from "framer-motion";
@@ -81,4 +82,4 @@ const Works = () => {
   );
 };
 
-export default Works;
+export default SectionWrapper(Works, "");
