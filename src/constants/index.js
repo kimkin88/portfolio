@@ -130,7 +130,7 @@ const experiences = [
     company_name: "Midnightstudio",
     icon: midnightstudio,
     iconBg: "#383E56",
-    date: "May 2020 - Present",
+    date: "May 2022 - Aug 2023",
     points: [
       "Developing and maintaining web applications using Next.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, testers, techlead and other developers to create high-quality products.",
